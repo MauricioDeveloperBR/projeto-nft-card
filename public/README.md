@@ -5,7 +5,7 @@
 O projeto se baseia basicamente na utilização de CSS e HTML para a criação de um card
 simulando um nft card. Nesse projeto não é utilizado html5 ou quaisquer pré-processadores de css.
 
-## Recurços Utilizados
+## Recursos Utilizados
 
 Foram utilizados *html(linguagem de marcação)* para criar a estrutura do projeto, *css(folhas de estilo)* para estilizar o projeto, assim como o editor de código *visual studio code* e *Git* para o controle do código fonte.
 
